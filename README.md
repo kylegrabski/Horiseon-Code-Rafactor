@@ -1,4 +1,9 @@
 # Horiseon-Code-Rafactor
+
+https://github.com/kylegrabski/Horiseon-Code-Refactor
+
+https://kylegrabski.github.io/Horiseon-Code-Refactor/index.html
+
 Refactoring for marketing company 'Horiseon'
 
 GIVEN a webpage meets accessibility standards
