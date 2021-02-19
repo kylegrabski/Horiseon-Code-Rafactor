@@ -4,7 +4,7 @@ Refactoring for marketing company 'Horiseon'
 
 https://github.com/kylegrabski/Horiseon-Code-Refactor
 
-https://kylegrabski.github.io/Horiseon-Code-Refactor/index.html
+https://kylegrabski.github.io/Horiseon-Code-Refactor/
 
 
 >GIVEN a webpage meets accessibility standards
