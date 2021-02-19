@@ -1,10 +1,10 @@
 # Horiseon-Code-Refactor
 
+Refactoring for marketing company 'Horiseon'
+
 https://github.com/kylegrabski/Horiseon-Code-Refactor
 
 https://kylegrabski.github.io/Horiseon-Code-Refactor/index.html
-
-Refactoring for marketing company 'Horiseon'
 
 
 >GIVEN a webpage meets accessibility standards
@@ -27,3 +27,6 @@ Refactoring for marketing company 'Horiseon'
 * **Finished all tasks at hand as well as added descriptive comments as to what I changed.** 
 
 * **Kyle Grabski 2/18/21**
+
+![Screenshot](assets/images/Horiseon-Code-Refactor.png)
+
