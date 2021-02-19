@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* changed the .header div to .header nav for the header and ul/li under the header */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -69,7 +71,7 @@ p {
     margin-left: 25px;
 }
 
-/* FIND REDUNDANCIES IN BENEFIT CLASS AND CONSOLIDATE. Consolidated benefit-article styles */
+/* Consolidated benefit-article styles */
 
 .benefits {
     margin-right: 20px;
@@ -98,8 +100,7 @@ p {
     max-width: 150px;
 }
 
-/* FOUND REDUNDANCIES IN CONTENT SECTION ELEM AND CONSOLIDATED
-changed style tags to .content div and .content img */
+/* Found redundancies in content section element and consolidated. Consolidated into .content-article. Changed style tags to .content img */
 
 .content {
     width: 75%;
@@ -107,7 +108,7 @@ changed style tags to .content div and .content img */
     margin-left: 20px;
 }
 
-.content div{
+.content-article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
